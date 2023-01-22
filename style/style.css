@@ -1,0 +1,45 @@
+/**
+*
+* style.css
+* @author - Lameen
+* @date - 20/01/2023
+**/
+
+.sub-container {
+    margin: 20px 0px;
+}
+.fa-suitcase,.fa-envelope,.fa-phone,.fa-bars-staggered {
+    color: #bbc2cf;
+    padding-left: 15px;
+}
+.fa-angle-right {
+    color: #bbc2cf;
+    padding-left: 15px;
+}
+.layout {
+    border: 1px solid #f5f6f8;
+}
+.profile-content {
+    margin: 10px;
+    background-color: #fff;
+}
+.profile-image {
+    border-radius: 50%;
+}
+.title {
+    width: 150px;
+    padding-left: 30px;
+}
+.profile-image-box {
+    padding: 15px;
+}
+.box {
+    width: 250px;
+    padding: 20px 10px;
+}
+.about {
+    width: 230px;
+    display: flex;
+    flex-direction: row;
+    padding: 10px 0px;
+}
